@@ -1,2 +1,2 @@
-# inn.cx
-Website for Inn
+# My Site
+Website for Rudhra Site
